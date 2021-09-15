@@ -1,4 +1,4 @@
-### Hi there ✨ 👋 ✨ 
+### Hi there, my name is Kamron ✨ 👋 ✨ 
 
 - 🔭 I’m currently studying Software Engineering at RIT
 - 🌱 I’m currently learning Java
