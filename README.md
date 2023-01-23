@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamron Gonzales</h1>
 <h3 align="center">A passionate fullstack developer from California</h3>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamron247&theme=dracula" alt="kamron247" /></a> </p>
 <img align="right" width="400" src="https://github.com/Kamron247/Kamron247/blob/1b78d28bbfeb9ec0b279ed2ee7dc6d39bb0d44ea/how-to-start.gif">
 
 - 🔭 I’m currently working on **RIT Academic Review WebAPP**
@@ -30,3 +28,4 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamron247&theme=dracula" alt="kamron247" />
 </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamron247&theme=dracula" alt="kamron247" /></a> </p>
