@@ -1,7 +1,7 @@
 [![MasterHead](https://tenor.com/view/code-coding-flying-through-code-e22-hacking-gif-15826314)]
 <h1 align="center">Hi 👋, I'm Kamron Gonzales</h1>
 <h3 align="center">A passionate fullstack developer from California</h3>
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif">
+<img align="right" src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamron247" alt="kamron247" /></a> </p>
 
