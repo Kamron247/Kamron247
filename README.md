@@ -1,9 +1,8 @@
-[![MasterHead](https://tenor.com/view/code-coding-flying-through-code-e22-hacking-gif-15826314)]
 <h1 align="center">Hi 👋, I'm Kamron Gonzales</h1>
 <h3 align="center">A passionate fullstack developer from California</h3>
-<img align="right" src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif">
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamron247" alt="kamron247" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamron247" alt="kamron247" /></a> </p><img align="right" width="400" src="https://github.com/Kamron247/Kamron247/blob/1b78d28bbfeb9ec0b279ed2ee7dc6d39bb0d44ea/how-to-start.gif">
 
 - 🔭 I’m currently working on **RIT Academic Review WebAPP**
 
@@ -17,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://linkedin.com/in/kamrongonzales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamrongonzales" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gonzaleskamron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gonzaleskamron" height="30" width="40" /></a>
 </p>
