@@ -3,7 +3,7 @@
 
 <img align="right" width="400" src="https://github.com/Kamron247/Kamron247/blob/1b78d28bbfeb9ec0b279ed2ee7dc6d39bb0d44ea/how-to-start.gif">
 
-- 🔭 I’m currently working on **RIT Academic Review WebAPP**
+- 🔭 I’m currently working on **RIT Annual Review WebAPP**
 
 - 🌱 I’m currently learning **Django, CSS, HTML, MongoDB**
 
