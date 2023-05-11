@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **RIT Annual Review WebAPP**
 
-- 🌱 I’m currently learning **Django, CSS, HTML, MongoDB**
+- 🌱 I’m currently learning **PHP, React/MUI, Drupal**
 
 - 👨‍💻 All of my projects are available at [My Repositories Page](https://github.com/Kamron247?tab=repositories)
 
