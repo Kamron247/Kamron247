@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [My Repositories Page](https://github.com/Kamron247?tab=repositories)
 
-- 📄 Know about my experiences: [My Resume](https://github.com/Kamron247/Kamron247/blob/433956417d080151eb55234cb396f9b6abf45d67/KamronGonzales_Resume2023.pdf)
-
 - ⚡ Fun fact: **I want to work in robotics**
 
 <h3 align="left">Connect with me:</h3>
