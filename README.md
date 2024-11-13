@@ -6,9 +6,9 @@
       <h4 align="center">Frontend developer</h3>
       <ul>
         <li>🔭 I’m currently working on a secret project</li>
-        <li>🌱 I’m currently learning about Docker</li>
+        <li>🌱 I’m currently learning about bit manipulation</li>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/Kamron247?tab=repositories">My Repos Page</a></li>
-        <li>⚡ Fun fact: I love eSports</li>
+        <li>⚡ Fun fact: I love Rocket League</li>
       </ul>
       <table align="middle" width=600px>
         <tr height=150px>
