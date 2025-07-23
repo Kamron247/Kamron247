@@ -3,12 +3,12 @@
 <table width=100%>
   <tr width=600px>
     <td width=600px>
-      <h4 align="center">Frontend developer</h3>
+      <h4 align="center">Fullstack developer</h3>
       <ul>
-        <li>🔭 I’m currently working on a secret project</li>
-        <li>🌱 I’m currently learning about bit manipulation</li>
+        <li>🔭 I’m currently working on a game!</li>
+        <li>🌱 I’m currently learning about C# and the Godot game engine</li>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/Kamron247?tab=repositories">My Repos Page</a></li>
-        <li>⚡ Fun fact: I love Rocket League</li>
+        <li>⚡ Fun fact: I love Rocket League and have played it professionally!</li>
       </ul>
       <table align="middle" width=600px>
         <tr height=150px>
@@ -19,18 +19,16 @@
             </a>
           </td>
           <td align="middle" width=300px>
-            <h4>Languages and Tools:</h3>
+            <h4>What is use:</h3>
             <p> 
               <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" alt="Fedora" width="40" height="40"/></a> 
-              <a href="https://github.com/" target="_blank" rel="noreferrer">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="git" width="40" height="40"/></a> 
+                <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" alt="Fedora" width="40" height="40"/></a>
               <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/></a> 
+              <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40"/></a>
               <a href="https://www.python.org" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-              <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS" width="40" height="40"/></a> 
             </p>
           </td>
         </tr>
